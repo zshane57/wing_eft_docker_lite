@@ -1,4 +1,4 @@
-# Fly Wing Species Classification — Lightweight Docker Workflow
+# Fly Wing Species Identification — Lightweight Command Line Docker Workflow
 
 Self-contained deployment of the full pipeline (flywingproj.md Tasks 2–5):
 
